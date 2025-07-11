@@ -1,3 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=100&section=header&text=capsule%20render&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=1&height=100&section=header&text=capsule%20render&fontSize=50)
 
 ![](https://github-readme-stats.vercel.app/api?username=LeeYun&show_icons=true&theme=radical)
