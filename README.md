@@ -18,7 +18,7 @@
     <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
 </div>
-<hr>
+<br>
 <div>
   <img alt="readme stats" src="https://github-readme-stats.vercel.app/api?username=LeeYun&show_icons=true&theme=radical">
 </div>
