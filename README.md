@@ -18,6 +18,8 @@
     <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
     <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+</div>
+
 <div>
-  
-![](https://github-readme-stats.vercel.app/api?username=LeeYun&show_icons=true&theme=radical)
+  ![](https://github-readme-stats.vercel.app/api?username=LeeYun&show_icons=true&theme=radical)
+</div>
