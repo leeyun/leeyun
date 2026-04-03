@@ -19,6 +19,6 @@
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
 </div>
 <br>
-
+| 요즘들어 게을러진 것 같다. 플젝도 좀 열심히하고 프머도 쫌 해라..윤경아ㅠㅠ
 ![leeyun's GitHub stats](https://github-readme-stats-ruby-psi-tu14krtrfj.vercel.app/api?username=leeyun&show_icons=true&theme=radical)
 ![leeyun's GitHub stats](https://raw.githubusercontent.com/leeyun/programmers-badge-v1/master/static/result.svg)
