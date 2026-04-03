@@ -20,5 +20,5 @@
 </div>
 <br>
 <div>
-  [![leeyun's GitHub stats](https://github-readme-stats-r9ps.vercel.app/api?username=leeyun&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![leeyun's GitHub stats](https://github-readme-stats-86ovc53px-leeyuns-projects.vercel.app/api?username=leeyun&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
