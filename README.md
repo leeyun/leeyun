@@ -21,3 +21,4 @@
 <br>
 
 ![leeyun's GitHub stats](https://github-readme-stats-ruby-psi-tu14krtrfj.vercel.app/api?username=leeyun&show_icons=true&theme=radical)
+![leeyun's GitHub stats](https://raw.githubusercontent.com/leeyun/programmers-badge-v1/master/static/result.svg)
