@@ -20,4 +20,4 @@
 </div>
 <br>
 
-![leeyun's GitHub stats](https://github-readme-stats-86ovc53px-leeyuns-projects.vercel.app/api?username=leeyun&show_icons=true&theme=radical&v=123)
+![leeyun's GitHub stats](https://github-readme-stats-ruby-psi-tu14krtrfj.vercel.app/api?username=leeyun&show_icons=true&theme=radical)
