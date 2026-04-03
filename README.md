@@ -20,7 +20,5 @@
 </div>
 <br>
 <div>
-  <img alt="readme stats" src="https://github-readme-stats.vercel.app/api?username=leeyun&show_icons=true&theme=radical">
-  ![github stats](https://github-readme-stats.vercel.app/api?username={leeyun})](https://github.com/anuraghazra/github-readme-stats)
-
+  [![leeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyun)](https://github.com/anuraghazra/github-readme-stats)
 </div>
