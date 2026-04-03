@@ -20,5 +20,5 @@
 </div>
 <br>
 <div>
-  <img alt="readme stats" src="https://github-readme-stats.vercel.app/api?username=LeeYun&show_icons=true&theme=radical">
+  <img alt="readme stats" src="https://github-readme-stats.vercel.app/api?username=leeyun&show_icons=true&theme=radical">
 </div>
