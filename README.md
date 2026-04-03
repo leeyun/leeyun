@@ -19,6 +19,5 @@
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
 </div>
 <br>
-<div>
-  [![leeyun's GitHub stats](https://github-readme-stats-86ovc53px-leeyuns-projects.vercel.app/api?username=leeyun&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+![leeyun's GitHub stats](https://github-readme-stats-86ovc53px-leeyuns-projects.vercel.app/api?username=leeyun&show_icons=true)
