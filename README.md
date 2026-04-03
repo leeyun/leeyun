@@ -20,11 +20,5 @@
 </div>
 <br>
 <div>
-  [![leeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyun)](https://github.com/anuraghazra/github-readme-stats)
+  [![leeyun's GitHub stats](https://github-readme-stats-r9ps.vercel.app/api?username=leeyun&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-![leeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyun&show_icons=true&theme=radical)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeyun&show_icons=true&theme=social" alt="leeyun's github stats" />
-</p>
