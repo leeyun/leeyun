@@ -20,7 +20,6 @@
 </div>
 <br>
 
-`요즘들어 게을러진 것 같다. 플젝도 좀 열심히하고 프머도 쫌 해라..윤경아ㅠㅠ`
-
 ![leeyun's GitHub stats](https://github-readme-stats-ruby-psi-tu14krtrfj.vercel.app/api?username=leeyun&show_icons=true&theme=radical)
 ![leeyun's GitHub stats](https://raw.githubusercontent.com/leeyun/programmers-badge-v1/master/static/result.svg)
+[![solvedac badge](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=leeyunyvn&theme=github-dark)](https://github.com/2ykwang/solvedac-readme-badge)
